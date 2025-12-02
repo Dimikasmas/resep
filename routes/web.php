@@ -26,3 +26,15 @@ Route::get('/brownies_pudding', function () {
 Route::get('/clear_onion', function () {
     return view('clear_onion');
 });
+Route::get('/resepkeynotes', function () {
+    return view('resepkeynotes');
+});
+Route::get('/resepkeynote2', function () {
+    return view('resepkeynote2');
+});
+Route::get('/resepkeynote3', function () {
+    return view('resepkeynote3');
+});
+Route::get('/resepkeynote4', function () {
+    return view('resepkeynote4');
+});
