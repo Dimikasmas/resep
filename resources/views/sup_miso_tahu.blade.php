@@ -195,45 +195,41 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="sup_miso_tahu.png" alt="SUP MISO TAHU RUMPUT LAUT" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">SUP MISO TAHU RUMPUT LAUT</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Sup khas Jepang ini memadukan miso (pasta kedelai fermentasi), tahu, dan rumput laut. Rasanya gurih, ringan, dan kaya umami, biasanya disajikan hangat sebagai pembuka atau pendamping nasi. Nutrisi tinggi dan cocok untuk menu sehat sehari-hari.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 1 liter air</li>
+                    <li>2.) 1 sdt bubuk dashi (kaldu ikan instan, opsional)</li>
+                    <li>3.) 5 gr rumput laut kering (wakame), rendam air sebentar</li>
+                    <li>4.) 1 kotak tahu sutra, potong dadu kecil</li>
+                    <li>5.) 3-4 sdm pasta miso putih atau merah</li>
+                    <li>6.) 1 batang daun bawang, iris halus</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Didihkan air dalam panci. Masukkan bubuk dashi (jika digunakan).</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Masukkan potongan tahu sutra dan rumput laut yang sudah direndam. Masak selama 2-3 menit.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Kecilkan api sekecil mungkin (jangan biarkan sup mendidih saat memasukkan miso).</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Ambil sedikit kuah sup, larutkan pasta miso di mangkuk terpisah, lalu tuang larutan miso kembali ke panci sup. Aduk rata.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Matikan api segera setelah miso larut. Sup miso tidak boleh dididihkan setelah miso masuk agar probiotiknya tetap hidup dan rasa tidak berubah.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Sajikan hangat dengan taburan irisan daun bawang.</p>
 
             </div>
         </div>

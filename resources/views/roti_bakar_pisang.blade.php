@@ -195,45 +195,35 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="roti_bakar_pisang.png" alt="ROTI BAKAR PISANG KEJU" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">ROTI BAKAR PISANG KEJU</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Roti bakar yang renyah di luar namun tetap lembut di dalam, dipadukan dengan irisan pisang matang yang manis alami. Ditambah taburan keju parut yang gurih serta sedikit lelehan mentega, menu ini menghadirkan perpaduan rasa manis-gurih yang hangat dan bikin nyaman. Cocok untuk sarapan, camilan sore, atau menu jualan yang selalu laris.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 6 buah raja,pipihkan</li>
+                    <li>2.) 1 sdm margarin</li>
+                    <li>3.) 4 lembar roti tawar</li>
+                    <li>4.) 2 sdm Selai coklat atau margarin</li>
+                    <li>5.) 50 gram keju cheddar parut memanjang</li>
+                    <li>6.) 2 sdt madu</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Siapkan bahan. Panaskan wajan, masukkan pisang, masak sampai kekuningan, angkat</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Masukkan roti tawar, panggang sampai kecoklatan. Lalu oles roti dengan selai.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
-                
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
-
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
-
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">3.</span> Tata roti dengan pisang di atasnya, taburi keju parut. Tumpuk dengan roti lagi. Beri sedikit keju dan madu di atasnya. Sajikan</p>
 
             </div>
         </div>

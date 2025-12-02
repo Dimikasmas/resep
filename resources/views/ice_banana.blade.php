@@ -195,45 +195,38 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="ice_banana.png" alt="ICE BANANA LATTE" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">ICE BANANA LATTE</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                ice Banana Latte adalah kombinasi unik antara kopi latte dingin dengan aroma pisang yang manis. Minuman ini menghadirkan rasa creamy dari susu, segarnya pisang, dan pahit lembut dari kopi, sehingga cocok untuk pecinta minuman kopi yang ingin coba rasa baru.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 1 buah pisang matang (medium)</li>
+                    <li>2.) 60 ml (¼ cangkir) heavy cream atau susu pilihan (bisa non-dairy)</li>
+                    <li>3.) 1 sdm gula atau brown sugar</li>
+                    <li>4.) ½ sdt ekstrak vanila</li>
+                    <li>5.) Sejumput garam</li>
+                    <li>6.) ± 200 ml kopi dingin (cold brew atau es kopi)</li>
+                    <li>7.) Es batu</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Blender pisang, heavy cream (atau susu), gula, vanila, dan garam hingga halus — ini jadi “banana cream”.</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Siapkan gelas dengan es batu</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Tuang kopi dingin ke dalam gelas.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
-
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
-
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">4.</span> Tambahkan beberapa sendok banana cream di atas kopi. Aduk sebelum minum.</p>
 
             </div>
         </div>

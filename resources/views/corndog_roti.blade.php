@@ -195,45 +195,45 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="corndog_roti.png" alt="CORNDOG ROTI TAWAR" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">CORNDOG ROTI TAWAR</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
-            </p>
+                Corndog Roti Tawar merupakan versi praktis dari corndog klasik. Sosis atau keju dilapisi roti tawar, lalu diberi adonan ringan sebelum digoreng hingga kecokelatan. Hasilnya renyah di luar, lembut di dalam, dan sangat mudah dibuat hanya dengan bahan dapur sederhana.
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 6 lembar roti tawar</li>
+                    <li>2.) 4 buah sosis</li>
+                    <li>3.) 6 potong keju melt</li>
+                    <li>4.) 8 sdm tepung panir</li>
+                    <li>5.) 1 butir telur</li>
+                    <li>6.) 6 sdm tepung terigu</li>
+                    <li>7.) 100 ml air</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Siapkan roti tawar dan pisahkan pinggiran roti.</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Pipihkan roti dengan bantuan gelas atau botol hingga menipis.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Siapkan potongan sosis dan keju yang sudah ditusuk dengan tusuk sate.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Gulung sosis dan keju dengan roti tawar.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Rekatkan ujung roti dengan telur kocok.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Sisa telur tadi, tambahkan air dan terigu. Lalu, aduk rata.</p>
+
+                <p><span class="step-number">7.</span> Celupkan corn dog ke dalam adonan tepung yang dibuat sebelumnya dan balurkan tepung roti. Tekan tepung roti agar menempel pada roti.</p>
+
+                <p><span class="step-number">8.</span> Goreng adonan corn dog di minyak panas. Turuskan ketika sudah berubah warna menjadi.</p>
 
             </div>
         </div>

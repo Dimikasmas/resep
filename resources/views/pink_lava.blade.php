@@ -195,45 +195,40 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="pink_lava.png" alt="PINK LAVA" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">PINK LAVA</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Pink Lava adalah minuman manis dan segar berwarna merah muda cerah, biasanya terbuat dari susu, sirup stroberi, dan es. Rasanya creamy dengan aroma buah yang lembut, cocok sebagai minuman kekinian yang menyegarkan.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) Sirup cocopandan.</li>
+                    <li>2.) Susu kental manis (SKM) atau susu full</li>
+                    <li>3.) cream</li>
+                    <li>4.) Santan instan / santan bubuk / atau susu UHT (tergantung versi)</li>
+                    <li>5.) Air panas (±100-200 ml) dan es batu.</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Siapkan gelas besar atau wadah campur lemon</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Masukkan sirup cocopandan, susu kental manis, dan santan bubuk/instan ke dalam gelas. </p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Tuangkan air panas ke campuran bahan kering tadi, aduk hingga larut rata.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Siapkan gelas saji yang sudah diberi es batu</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Tuangkan cairan yang sudah dibuat ke dalam gelas es batu.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Aduk ringan dan sajikan segera.</p>
 
             </div>
         </div>

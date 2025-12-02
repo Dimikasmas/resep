@@ -195,45 +195,39 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="mummy_sosis.png" alt="MUMMY SOSIS" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">MUMMY SOSIS</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Mummy Sosis adalah camilan lucu dan kreatif berupa sosis yang dibalut dengan adonan atau kulit pastry menyerupai lilitan mumi. Biasanya dibuat sebagai camilan cepat saji atau hidangan bertema Halloween, namun tetap cocok dinikmati kapan pun. Rasanya gurih dengan tekstur renyah di luar dan lembut di dalam.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) Puff Pastry</li>
+                    <li>2.) 6 batang sosis sapi / sosis ayam</li>
+                    <li>3.) 1 butir kuning telur</li>
+                    <li>4.) Saus sambal</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Lilitkan puff pastry pada sosis. Lilit sosis seperti mumi yang diselimuti oleh kain</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Beri mmummy sosis pada Loyang yang sudah dilumuri sedikit minyak, margarin, atau Loyang yang sudah diberi kertas roti.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
-                
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">3.</span> Oles puff pastry dengan kuning telur.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">4.</span> Panggang puff pastry yang sudah dibalur telur di dalam oven dengan suhu 150 derajat selama 10–15 menit.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">5.</span> Beri topping saus di bagian ujung pastry, agar terlihat lebih mirip dengan mumi.</p>
+
+                <p><span class="step-number">6.</span> Mummy sosis siap disajikan.</p>
 
             </div>
         </div>

@@ -195,45 +195,45 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="hotang.png" alt="HOTANG(HOTDOG KENTANG)" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">HOTANG(HOTDOG KENTANG)</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Hotang adalah jajanan populer yang menggabungkan sosis dan potongan kentang sebagai lapisannya. Sosis yang ditusuk diberi adonan tepung, lalu ditempeli dadu kentang kecil sebelum digoreng. Rasanya gurih, crispy, dan sangat mengenyangkan—cocok sebagai camilan atau bekal.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 6 buah sosis</li>
+                    <li>2.) 500 g french fries (kentang beku dadu) </li>
+                    <li>3.) 3 sdm tepung bumbu serbaguna</li>
+                    <li>4.) 2 sdm tepung terigu</li>
+                    <li>5.) 1 sdm tepung maizena</li>
+                    <li>6.) 60 ml air matang</li>
+                    <li>7.) Minyak goreng secukupnya</li>
+                    <li>8.) (Opsional) saus sambal, mayones sebagai pelengkap</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Tusuk sosis dengan tusuk sate</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Campurkan tepung bumbu, terigu, maizena dengan air hingga menjadi adonan kental seperti lem. </p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Balurkan adonan tepung ke sosis, lalu tekan potongan kentang di permukaannya hingga menempel.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Dinginkan sebentar (bisa di freezer sebentar agar kentang menempel lebih kuat).</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Panaskan minyak, goreng sosis kentang hingga kecoklatan dan renyah.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Angkat hotang lalu tiriskan.</p>
+
+                <p><span class="step-number">7.</span> Setelah itu sajikan di piring dengan saus sambal / mayones.</p>
 
             </div>
         </div>

@@ -195,45 +195,41 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="sup_kentang.png" alt="SUP KENTANG BAWANG PUTIH" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">SUP KENTANG BAWANG PUTIH</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Sup sederhana berbahan dasar kentang dan bawang putih yang direbus hingga lembut, menghasilkan kuah kental, hangat, dan aromatik. Cocok sebagai sup rumahan yang menenangkan, mudah dibuat, dan memberikan rasa comfort food klasik.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 2-3 siung bawang putih, cincang halus atau geprek</li>
+                    <li>2.) 2-3 buah kentang ukuran sedang, kupas dan potong dadu</li>
+                    <li>3.) 1 batang daun bawang, iris tipis</li>
+                    <li>4.) 1 liter air atau kaldu ayam</li>
+                    <li>5.) Garam, lada, dan kaldu bubuk secukupnya</li>
+                    <li>6.) Minyak untuk menumis</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Panaskan minyak, tumis bawang putih hingga harum.</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Masukkan air atau kaldu ayam, didihkan.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Masukkan kentang, masak hingga kentang empuk.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Tambahkan garam, lada, dan kaldu bubuk, sesuaikan rasa.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Masukkan daun bawang, aduk sebentar, lalu matikan api.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Sajikan sup kentang bawang putih dalam keadaan hangat.</p>
 
             </div>
         </div>

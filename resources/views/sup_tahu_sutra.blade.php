@@ -195,45 +195,43 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="sup_tahu_sutra.png" alt="SUP TAHU SUTRA" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">SUP TAHU SUTRA</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Sup ini menggunakan tahu sutra yang lembut sebagai bahan utama, dimasak dalam kuah bening yang ringan. Rasanya gurih dan menenangkan, cocok untuk santapan sehat atau menu pembuka. Teksturnya halus, dan mudah dikombinasikan dengan sayuran seperti wortel, jamur, atau daun bawang.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 300 gram tahu sutra, potong kotak kecil</li>
+                    <li>2.) 700 ml air atau kaldu ayam</li>
+                    <li>3.) 2 siung bawang putih, cincang halus</li>
+                    <li>4.) 1 batang daun bawang, iris tipis</li>
+                    <li>5.) 1 sdt kecap ikan (optional untuk rasa gurih)</li>
+                    <li>6.) 1 sdt minyak wijen</li>
+                    <li>7.) Garam dan lada bubuk secukupnya</li>
+                    <li>8.) Minyak untuk menumis</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Panaskan sedikit minyak di panci, tumis bawang putih cincang hingga harum.</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Tuang air atau kaldu ayam ke dalam panci, didihkan.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
-                
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">3.</span> Masukkan potongan tahu sutra dengan hati-hati agar tidak hancur. Masak dengan api kecil selama 5-7 menit.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">4.</span> Tambahkan kecap ikan, minyak wijen, garam, dan lada bubuk sesuai selera. Aduk perlahan.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">5.</span> Masukkan irisan daun bawang, masak sebentar lalu angkat.</p>
+
+                <p><span class="step-number">6.</span> Sajikan sup tahu sutra dalam keadaan hangat.</p>
 
             </div>
         </div>
