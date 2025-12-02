@@ -195,45 +195,39 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="banana_brownies.png" alt="BANANA BROWNIES" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">BANANA BROWNIES</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Brownies cokelat fudgy yang dipadukan dengan aroma pisang yang harum dan segar. Kombinasi pisang dan cokelat menciptakan rasa manis yang natural dengan tekstur lembut di setiap gigitannya. Banana brownies cocok dinikmati saat hangat maupun dingin, dan jadi pilihan tepat untuk pecinta dessert yang ingin sesuatu yang unik dan lebih sehat.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 1 loyang 10x20 cm</li>
+                    <li>2.) 200 gr pisang matang sekali, lumatkan</li>
+                    <li>3.) 6 sdm gula bubuk</li>
+                    <li>4.) 5 sdm minyak</li>
+                    <li>5.) 1 butir telur</li>
+                    <li>6.) 10 sdm tepung terigu protein sedang</li>
+                    <li>7.) 1 sdm coklat bubuk</li>
+                    <li>8.) ¾ sdt baking powder</li>
+                    <li>9.) ¼ sdt baking soda</li>
+                    <li>10.) ¼ sdt garam</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Dalam satu wadah, campur pisang lumat, gula, minyak dan telur, aduk rata menggunakan spatula. Masukkan ayakan tepung terigu, coklat bubuk, baking powder, baking soda dan garam, aduk asal rata, hanya hingga tepung tidak terlihat, jangan overmix.</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Tuang ke loyang yang sudah dialas kertas roti. Panggang dalam oven dengan suhu 180°C selama 30-35 menit. Keluarkan dari oven, taruh di atas rak kawat hingga dingin. Potong-potong sesuai selera.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
-                
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
-
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
-
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">3.</span> Simple Banana Brownies siap disajikan dan dinikmati.</p>
 
             </div>
         </div>

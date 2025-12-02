@@ -195,45 +195,44 @@ body {
 
     <div class="container">
         <div class="image-container">
-            <img src="clear_onion.png" alt="CLEAR ONION SOUP" class="drink-image">
+            <img src="lava_choco.png" alt="LAVA CHOCO CAKE" class="drink-image">
         </div>
 
         <div class="content">
-            <div class="title">CLEAR ONION SOUP</div>
+            <div class="title">LAVA CHOCO CAKE</div>
 
             <p class="description">
-                Sup bening yang sederhana dengan bawang bombay sebagai bintang utamanya, sering ditumis ringan sebelum direbus dalam kaldu jernih. Rasanya manis alami bawang dan gurih kaldu, memberikan kesan elegan namun ringan, cocok sebagai pembuka hidangan.
+                Kue cokelat klasik dengan bagian tengah yang meleleh seperti lava ketika dipotong. Teksturnya moist, lembut, dan kaya rasa cokelat premium. Sensasi cokelat hangat yang mengalir dari dalam membuat dessert ini terlihat mewah namun tetap mudah dibuat. Sangat pas untuk hidangan spesial atau hadiah manis untuk orang tersayang.
             </p>
 
             <div class="ingredients">
                 <div class="section-title">Bahan-bahan:</div>
                 <ol>
-                    <li>1.) 1 wortel besar</li>
-                    <li>2.) 1 bawang bombai kuning</li>
-                    <li>3.) 5 cm jahe</li>
-                    <li>4.) 6 siung bawang putih</li>
-                    <li>5.) 600 ml air / kaldu</li>
-                    <li>6.) 2 sdt minyak wijen</li>
-                    <li>7.) 8 cangkir kaldu ayam</li>
-                    <li>8.) 4 cangkir kaldu sapi</li>
-                    <li>9.) 1/4 kecap asin atau tamari</li>
-                    <li>10.) garam dan merica secukupnya</li>
+                    <li>1.) 60 hr tepung</li>
+                    <li>2.) 4 sdm gula halus</li>
+                    <li>3.) 2 sdt baking powder</li>
+                    <li>4.) 4 sdm cocoa bubuk</li>
+                    <li>5.) ¼ sdt garam</li>
+                    <li>6.) 4 sdm minyak</li>
+                    <li>7.) 8 sdm susu cair</li>
+                    <li>8.) Potongan coklat</li>
+                    <li>9.) Whipped cream (opsional)</li>
                 </ol>
             </div>
 
             <div class="steps">
                 <div class="section-title">Cara membuat:</div>
-                <p><span class="step-number">1.</span> Kupas wortel dan potong semua sayuran menjadi potongan-potongan kecil. Iris jahe dan haluskan bawang putih.</p>
+                <p><span class="step-number">1.</span> Tuang di dalam 1 wadah tdd : tepung, gula halus, baking powder, bubuk cocoa dan garam lalu mix rata</p>
                 
-                <p><span class="step-number">2.</span> Tambahkan minyak wijen ke dalam panci, lalu masukkan sayuran.</p>
+                <p><span class="step-number">2.</span> Masukan susu cair dan minyak, aduk hingga rata.</p>
                 
-                <p><span class="step-number">3.</span> Tumis dengan api sedang selama 5-10 menit atau hingga bawang bombai mulai kecokelatan.</p>
+                <p><span class="step-number">3.</span> Masukan adonan ke cup yg aman untuk masuk microwave, masukan potongan coklat di tengah2 adonan.</p>
                 
-                <p><span class="step-number">4.</span> Masukkan bawang putih dan tumis selama 3 menit lagi.</p>
+                <p><span class="step-number">4.</span> Masukan ke micro, pengaturan waktu di 150 detik, keluarkan.</p>
 
-                <p><span class="step-number">5.</span> Masukkan kaldu, kecap asin, garam, dan merica. Didihkan.</p>
+                <p><span class="step-number">5.</span> Untuk topping whipped cream bisa di mixer hingga mengembang.</p>
 
-                <p><span class="step-number">6.</span> Setelah mendidih, tutup panci dan didihkan dengan api kecil selama minimal satu jam. Semakin lama mendidih, semakin nikmat rasanya.</p>
+                <p><span class="step-number">6.</span> Taruh topping di atas kue, lalu diberi sedikit cocoa bubuk. Silahkan dinikmati.</p>
 
             </div>
         </div>
