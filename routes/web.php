@@ -26,7 +26,6 @@ Route::get('/brownies_pudding', function () {
 Route::get('/clear_onion', function () {
     return view('clear_onion');
 });
-<<<<<<< HEAD
 Route::get('/resepkeynotes', function () {
     return view('resepkeynotes');
 });
@@ -38,7 +37,8 @@ Route::get('/resepkeynote3', function () {
 });
 Route::get('/resepkeynote4', function () {
     return view('resepkeynote4');
-=======
+});
+
 Route::get('/ice_banana', function () {
     return view('ice_banana');
 });
@@ -75,5 +75,4 @@ Route::get('/roti_bakar_pisang', function () {
 
 Route::get('/sup_tahu_sutra', function () {
     return view('sup_tahu_sutra');
->>>>>>> eaaf556f86af552e4771080d60829b298d470c9c
 });

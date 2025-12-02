@@ -1,222 +1,199 @@
-<div>
-    <!-- Simplicity is an acquired taste. - Katharine Gerould -->
-</div>
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Secret Recipe Menu</title>
+    <title>Secret Recipe Menu - Drinks</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #000;
-            padding: 20px;
+            background: linear-gradient(180deg, #1a1a1a 0%, #000000 100%);
         }
-
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-        }
-
+        
         .category-card {
             background: linear-gradient(180deg, #8B7355 0%, #6B5644 100%);
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-            position: relative;
-            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
-
-        .card-header {
-            text-align: center;
-            margin-bottom: 20px;
+        
+        .menu-item {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
         }
-
-        .category-title {
-            color: #fff;
-            font-size: 24px;
-            font-weight: 600;
-            margin-bottom: 15px;
+        
+        .menu-item:hover {
+            transform: translateY(-8px);
+            background: rgba(255,255,255,0.25);
         }
-
-        .search-bar {
-            background: rgba(255,255,255,0.9);
-            border-radius: 25px;
-            padding: 10px 20px;
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .search-bar input {
-            border: none;
-            outline: none;
-            background: transparent;
-            flex: 1;
-            font-size: 14px;
-        }
-
-        .filter-icons {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-bottom: 20px;
-        }
-
+        
         .filter-icon {
-    width: 40px;
-    height: 40px;
-    background: rgba(255,255,255,0.2);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: all 0.3s;
-    overflow: hidden;
-}
-
-.filter-icon img.filter-img {
-    width: 24px;
-    height: 24px;
-    object-fit: contain;
-}
-
+            background: rgba(255,255,255,0.2);
+            transition: all 0.3s ease;
+        }
+        
         .filter-icon:hover {
             background: rgba(255,255,255,0.4);
             transform: scale(1.1);
         }
-
+        
         .filter-icon.active {
             background: #FFD700;
         }
-
-        .menu-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
-            margin-bottom: 20px;
+        
+        .search-bar {
+            background: rgba(255,255,255,0.9);
         }
-
-        .menu-item {
-            background: rgba(255,255,255,0.15);
-            border-radius: 12px;
-            padding: 10px;
-            position: relative;
-            cursor: pointer;
-            transition: transform 0.3s;
-        }
-
-        .menu-item:hover {
-            transform: translateY(-5px);
-        }
-
-        .menu-item img {
-            width: 100%;
-            height: 100px;
-            object-fit: cover;
-            border-radius: 8px;
-            margin-bottom: 8px;
-        }
-
-        .menu-item-name {
-            color: #fff;
-            font-size: 12px;
-            text-align: center;
-            font-weight: 500;
-        }
-
-        .badge {
-            position: absolute;
-            top: 15px;
-            right: 15px;
-            background: #FF6B6B;
-            color: white;
-            padding: 3px 8px;
-            border-radius: 12px;
-            font-size: 10px;
-            font-weight: 600;
-        }
-
-        .coming-soon {
+        
+        .coming-soon-overlay {
             background: rgba(0,0,0,0.7);
-            color: #FFD700;
-            padding: 15px;
-            text-align: center;
-            border-radius: 10px;
-            font-weight: 600;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-        }
-
-        .coming-soon::before {
-            content: '🔒';
-            font-size: 20px;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                grid-template-columns: 1fr;
-            }
         }
     </style>
 </head>
-<body>
-    <div class="container">
-<!-- Drinks Category -->
-        <div class="category-card">
-            <div class="card-header">
-                <h2 class="category-title">Drinks</h2>
-                <div class="search-bar">
-                    <input type="text" placeholder="Search...">
-                    <span>🔍</span>
+<body class="min-h-screen p-5">
+    <div class="max-w-md mx-auto">
+        <!-- Category Card -->
+        <div class="category-card rounded-2xl p-6 shadow-2xl">
+            <!-- Header -->
+            <div class="text-center mb-6">
+                <h2 class="text-white text-3xl font-bold mb-4">Drinks</h2>
+                
+                <!-- Search Bar -->
+                <div class="search-bar rounded-full px-5 py-3 flex items-center gap-3 mb-5">
+                    <input 
+                        type="text" 
+                        placeholder="Search..." 
+                        class="flex-1 bg-transparent outline-none text-gray-700 text-sm"
+                    >
+                    <span class="text-gray-600">🔍</span>
                 </div>
-                <div class="filter-icons">
-                    <div class="filter-icon"> <img src="{{ asset('icon/soup.png') }}" alt="eat" class="filter-img"> </div>
-                    <div class="filter-icon"> <img src="{{ asset('icon/dessert.png') }}" alt="eat" class="filter-img"> </div>
-                    <div class="filter-icon"> <img src="{{ asset('icon/cookies.png') }}" alt="eat" class="filter-img"> </div>
-                    <div class="filter-icon"> <img src="{{ asset('icon/drinks.png') }}" alt="eat" class="filter-img"> </div>
+                
+                <!-- Filter Icons -->
+                <div class="flex justify-center gap-4 mb-6">
+                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/soup.png') }}" alt="Food" class="w-6 h-6 object-contain">
+                    </div>
+                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/dessert.png') }}" alt="Dessert" class="w-6 h-6 object-contain">
+                    </div>
+                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/cookies.png') }}" alt="Snacks" class="w-6 h-6 object-contain">
+                    </div>
+                    <div class="filter-icon active w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/drinks.png') }}" alt="Drinks" class="w-6 h-6 object-contain">
+                    </div>
                 </div>
             </div>
-            <div class="menu-grid">
-                <div class="menu-item">
-                    <img src="{{ asset('drinks/pink-lava.jpg') }}" alt="eat" class="filter-img">
-                    <p class="menu-item-name">Pink Lava</p>
+            
+            <!-- Menu Grid -->
+            <div class="grid grid-cols-2 gap-4">
+                <!-- Menu Item 1 -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer">
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg">
+                        <img 
+                            src="{{ asset('drinks/pink-lava.jpg') }}" 
+                            alt="Pink Lava" 
+                            class="w-full h-full object-cover"
+                        >
+                    </div>
+                    <p class="text-white text-sm font-medium text-center">Pink Lava</p>
                 </div>
-                <div class="menu-item">
-                    <img src="{{ asset('drinks/thai-tea.jpeg') }}" alt="eat" class="filter-img">
-                    <p class="menu-item-name">Thai Tea</p>
+                
+                <!-- Menu Item 2 -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer relative">
+                    <div class="absolute top-3 right-3 bg-red-500 text-white text-xs px-2 py-1 rounded-full font-semibold z-10">
+                        HOT
+                    </div>
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg">
+                        <img 
+                            src="{{ asset('drinks/thai-tea.jpeg') }}" 
+                            alt="Thai Tea" 
+                            class="w-full h-full object-cover"
+                        >
+                    </div>
+                    <p class="text-white text-sm font-medium text-center">Thai Tea</p>
                 </div>
-                <div class="menu-item">
-                    <img src="{{ asset('drinks/icedbanana-latte.jpg') }}" alt="eat" class="filter-img">
-                    <p class="menu-item-name">Ice Banana Latte</p>
+                
+                <!-- Menu Item 3 -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer">
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg">
+                        <img 
+                            src="{{ asset('drinks/icedbanana-latte.jpg') }}" 
+                            alt="Ice Banana Latte" 
+                            class="w-full h-full object-cover"
+                        >
+                    </div>
+                    <p class="text-white text-sm font-medium text-center">Ice Banana Latte</p>
                 </div>
-                <div class="menu-item">
-                    <img src="{{ asset('drinks/cerry_mocktail.png') }}" alt="eat" class="filter-img">
-                    <p class="menu-item-name">Cherry Mocktail</p>
+                
+                <!-- Menu Item 4 -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer">
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg">
+                        <img 
+                            src="{{ asset('drinks/cerry_mocktail.png') }}" 
+                            alt="Cherry Mocktail" 
+                            class="w-full h-full object-cover"
+                        >
+                    </div>
+                    <p class="text-white text-sm font-medium text-center">Cherry Mocktail</p>
                 </div>
-                <div class="menu-item">
-                    <img src="{{ asset('drinks/taro_milktea.png') }}" alt="eat" class="filter-img">
-                    <p class="menu-item-name">Taro Milk Tea</p>
+                
+                <!-- Menu Item 5 -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer">
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg">
+                        <img 
+                            src="{{ asset('drinks/taro_milktea.png') }}" 
+                            alt="Taro Milk Tea" 
+                            class="w-full h-full object-cover"
+                        >
+                    </div>
+                    <p class="text-white text-sm font-medium text-center">Taro Milk Tea</p>
                 </div>
-                <div class="menu-item">
-                <img src="{{ asset('logokeynotes.png') }}" alt="Keynotes Logo">
-                <p class="menu-item-name">Coming Soon</p>
+                
+                <!-- Coming Soon Item -->
+                <div class="menu-item rounded-xl p-4 cursor-pointer relative overflow-hidden">
+                    <div class="aspect-square mb-3 overflow-hidden rounded-lg bg-gray-800">
+                        <img 
+                            src="{{ asset('logokeynotes.png') }}" 
+                            alt="Keynotes Logo" 
+                            class="w-full h-full object-contain opacity-30"
+                        >
+                    </div>
+                    <div class="absolute inset-0 coming-soon-overlay rounded-xl flex flex-col items-center justify-center gap-2">
+                        <span class="text-5xl">🔒</span>
+                        <p class="text-yellow-400 text-sm font-bold uppercase tracking-wide">Coming Soon</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <script>
+        // Filter icon interaction
+        const filterIcons = document.querySelectorAll('.filter-icon');
+        
+        filterIcons.forEach(icon => {
+            icon.addEventListener('click', function() {
+                filterIcons.forEach(i => i.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+
+        // Search functionality
+        const searchInput = document.querySelector('input[type="text"]');
+        const menuItems = document.querySelectorAll('.menu-item');
+
+        searchInput.addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            
+            menuItems.forEach(item => {
+                const itemName = item.querySelector('.text-center').textContent.toLowerCase();
+                if (itemName.includes(searchTerm)) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+    </script>
 </body>
 </html>
