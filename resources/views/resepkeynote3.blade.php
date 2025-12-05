@@ -49,82 +49,82 @@
         }
     </style>
 </head>
-<body class="min-h-screen p-5">
-    <div class="max-w-md mx-auto">
+<body class="min-h-screen">
+    <div class="w-full min-h-screen flex items-center justify-center p-4 md:p-8 lg:p-12">
         <!-- SNACKS CATEGORY -->
-        <div class="category-card rounded-2xl p-6 shadow-2xl">
-            <div class="text-center mb-6">
-                <h2 class="text-white text-3xl font-bold mb-4">Snacks</h2>
+        <div class="category-card rounded-2xl p-6 md:p-8 lg:p-10 shadow-2xl w-full h-full md:h-auto max-w-sm md:max-w-3xl lg:max-w-5xl xl:max-w-7xl">
+            <div class="text-center mb-6 md:mb-8">
+                <h2 class="text-white text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Snacks</h2>
                 
-                <div class="search-bar rounded-full px-5 py-3 flex items-center gap-3 mb-5">
+                <div class="search-bar rounded-full px-5 md:px-6 py-3 md:py-4 flex items-center gap-3 mb-6 max-w-md mx-auto">
                     <input 
                         type="text" 
                         placeholder="Search..." 
-                        class="flex-1 bg-transparent outline-none text-gray-700 text-sm"
+                        class="flex-1 bg-transparent outline-none text-gray-700 text-sm md:text-base"
                         id="searchInput"
                     >
-                    <span class="text-gray-600">🔍</span>
+                    <span class="text-gray-600 text-xl">🔍</span>
                 </div>
                 
-                <div class="flex justify-center gap-4 mb-6">
-                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
-                        <img src="{{ asset('icon/soup.png') }}" alt="Food" class="w-6 h-6 object-contain">
+                <div class="flex justify-center gap-4 md:gap-6 mb-8">
+                    <div class="filter-icon w-12 h-12 md:w-14 md:h-14 lg:w-16 lg:h-16 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/soup.png') }}" alt="Food" class="w-6 h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 object-contain">
                     </div>
-                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
-                        <img src="{{ asset('icon/dessert.png') }}" alt="Dessert" class="w-6 h-6 object-contain">
+                    <div class="filter-icon w-12 h-12 md:w-14 md:h-14 lg:w-16 lg:h-16 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/dessert.png') }}" alt="Dessert" class="w-6 h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 object-contain">
                     </div>
-                    <div class="filter-icon active w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
-                        <img src="{{ asset('icon/cookies.png') }}" alt="Snacks" class="w-6 h-6 object-contain">
+                    <div class="filter-icon active w-12 h-12 md:w-14 md:h-14 lg:w-16 lg:h-16 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/cookies.png') }}" alt="Snacks" class="w-6 h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 object-contain">
                     </div>
-                    <div class="filter-icon w-12 h-12 rounded-full flex items-center justify-center cursor-pointer">
-                        <img src="{{ asset('icon/drinks.png') }}" alt="Drinks" class="w-6 h-6 object-contain">
+                    <div class="filter-icon w-12 h-12 md:w-14 md:h-14 lg:w-16 lg:h-16 rounded-full flex items-center justify-center cursor-pointer">
+                        <img src="{{ asset('icon/drinks.png') }}" alt="Drinks" class="w-6 h-6 md:w-7 md:h-7 lg:w-8 lg:h-8 object-contain">
                     </div>
                 </div>
             </div>
             
-            <div class="grid grid-cols-2 gap-4" id="menuGrid">
-                <div class="menu-item rounded-xl p-4 cursor-pointer" data-name="mummy sosis">
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 md:gap-6 lg:gap-8" id="menuGrid">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer" data-name="mummy sosis">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg">
                         <img src="{{ asset('snacks/mummy-sosis.webp') }}" alt="Mummy Sosis" class="w-full h-full object-cover">
                     </div>
-                    <p class="text-white text-sm font-medium text-center">Mummy Sosis</p>
+                    <p class="text-white text-sm md:text-base lg:text-lg font-medium text-center">Mummy Sosis</p>
                 </div>
                 
-                <div class="menu-item rounded-xl p-4 cursor-pointer" data-name="corndog roti tawar">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer" data-name="corndog roti tawar">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg">
                         <img src="{{ asset('snacks/corndog-roti tawar.webp') }}" alt="Corndog Roti Tawar" class="w-full h-full object-cover">
                     </div>
-                    <p class="text-white text-sm font-medium text-center">Corndog Roti Tawar</p>
+                    <p class="text-white text-sm md:text-base lg:text-lg font-medium text-center">Corndog Roti Tawar</p>
                 </div>
                 
-                <div class="menu-item rounded-xl p-4 cursor-pointer" data-name="garlic bread toast">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer" data-name="garlic bread toast">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg">
                         <img src="{{ asset('snacks/garlicbread-toast.jpg') }}" alt="Garlic Bread Toast" class="w-full h-full object-cover">
                     </div>
-                    <p class="text-white text-sm font-medium text-center">Garlic Bread Toast</p>
+                    <p class="text-white text-sm md:text-base lg:text-lg font-medium text-center">Garlic Bread Toast</p>
                 </div>
                 
-                <div class="menu-item rounded-xl p-4 cursor-pointer" data-name="hotang hotdog kentang">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer" data-name="hotang hotdog kentang">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg">
                         <img src="{{ asset('snacks/hotdog-kentang.jpg') }}" alt="Hotang" class="w-full h-full object-cover">
                     </div>
-                    <p class="text-white text-sm font-medium text-center">Hotang (Hotdog Kentang)</p>
+                    <p class="text-white text-sm md:text-base lg:text-lg font-medium text-center">Hotang (Hotdog Kentang)</p>
                 </div>
                 
-                <div class="menu-item rounded-xl p-4 cursor-pointer" data-name="sate pisang ovomaltine">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer" data-name="sate pisang ovomaltine">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg">
                         <img src="{{ asset('snacks/sate_pisang.png') }}" alt="Sate Pisang" class="w-full h-full object-cover">
                     </div>
-                    <p class="text-white text-sm font-medium text-center">Sate Pisang Ovomaltine</p>
+                    <p class="text-white text-sm md:text-base lg:text-lg font-medium text-center">Sate Pisang Ovomaltine</p>
                 </div>
                 
-                <div class="menu-item rounded-xl p-4 cursor-pointer relative overflow-hidden">
+                <div class="menu-item rounded-xl p-4 md:p-5 lg:p-6 cursor-pointer relative overflow-hidden">
                     <div class="aspect-square mb-3 overflow-hidden rounded-lg bg-gray-800">
                         <img src="{{ asset('logokeynotes.png') }}" alt="Coming Soon" class="w-full h-full object-contain opacity-30">
                     </div>
                     <div class="absolute inset-0 coming-soon-overlay rounded-xl flex flex-col items-center justify-center gap-2">
-                        <span class="text-5xl">🔒</span>
-                        <p class="text-yellow-400 text-sm font-bold uppercase tracking-wide">Coming Soon</p>
+                        <span class="text-4xl md:text-5xl lg:text-6xl">🔒</span>
+                        <p class="text-yellow-400 text-xs md:text-sm lg:text-base font-bold uppercase tracking-wide">Coming Soon</p>
                     </div>
                 </div>
             </div>
